@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tambal1
 - 👀 I’m interested in data
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on learning machine learning
+- 🌱 I’m currently learning data analytics
+- 💞️ I’m looking to collaborate on learning data analytics
 - 📫 How to reach me huzaifatambal1@gmail.com
 
 <!---
