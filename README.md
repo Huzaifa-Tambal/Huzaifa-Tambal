@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Huzaifa-Tambal
-- 👀 I’m interested in data
-- 🌱 I’m currently learning data analytics
+- 👀 I’m a Data Anlayst
 - 📫 How to reach me huzaifatambal1@gmail.com
 
 <!---
